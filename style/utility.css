@@ -1,0 +1,43 @@
+.grid {
+  display: grid;
+}
+
+.grid-flow-col{
+  grid-template-columns: repeat(7, max-content);
+}
+
+.grid-cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.gap-16 {
+  gap: 16px;
+}
+
+.gap-32 {
+  gap: 32px;
+}
+
+.text-2xl {
+  font: var(--h1);
+}
+
+.text-xl {
+  font: var(--h2);
+}
+
+.text-lg {
+  font: var(--h3);
+}
+
+.text-sub {
+  font: var(--subtitle);
+}
+
+.text-md {
+  font: var(--text-md);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
