@@ -69,6 +69,11 @@ header {
 #skills {
   list-style: none;
   padding-bottom: 99.5px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 
   li {
     display: inline-flex;
