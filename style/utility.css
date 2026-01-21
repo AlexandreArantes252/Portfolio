@@ -49,3 +49,7 @@
 .color-red {
   color: var(--red);
 }
+
+.color-purple {
+  color: var(--purple);
+}
